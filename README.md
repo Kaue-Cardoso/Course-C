@@ -9,12 +9,10 @@ O curso de Programação em C tem como objetivo introduzir os fundamentos da lin
 ## Conteúdo
 
 - **Exercícios**: Nesta seção, você encontrará listas de exercícios para praticar os conceitos aprendidos em sala de aula.
-/* - **Materiais de Aula**: Aqui você terá acesso aos slides das aulas, códigos de exemplo e outros recursos utilizados durante as aulas. */
 
 ## Estrutura do Repositório
 
 - `/exercicios`: Pasta contendo as listas de exercícios propostos.
-/* - `/materiais_de_aula`: Pasta contendo os slides das aulas, códigos de exemplo e outros materiais utilizados em sala de aula.*/
 
 ## Contato
 
