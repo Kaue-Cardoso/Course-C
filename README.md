@@ -1,6 +1,6 @@
 # Curso de Programação em C
 
-Este repositório contém os materiais do curso de Programação em C ministrado por Mim para os alunos da empresa TechTreeFoz.
+Este repositório contém os materiais do curso de Programação em C ministrado por mim para os alunos da empresa TechTreeFoz.
 
 ## Sobre o Curso
 
