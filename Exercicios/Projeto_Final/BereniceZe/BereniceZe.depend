@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1718767502 source:c:\users\kaue\downloads\bereniceze-20240618t225342z-001\bereniceze\funcoes.c
+	"funcoes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718765854 c:\users\kaue\downloads\bereniceze-20240618t225342z-001\bereniceze\funcoes.h
+
+1718765189 source:c:\users\kaue\downloads\bereniceze-20240618t225342z-001\bereniceze\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
