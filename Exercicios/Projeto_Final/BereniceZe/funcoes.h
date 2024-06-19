@@ -3,7 +3,7 @@
 
 //Menu Principal----------
 void menuPrincipal();
-int cadastros();
+void cadastros();
 void vendas();
 void aberturaDeCaixa();
 void fechamentoDeCaixa();
@@ -11,11 +11,24 @@ void relatorios();
 
 int validarAdministrador();
 
-//Cadastros
-int cadastroUsuarios();
+//CadastroUsuarios
+void cadastroUsuarios();
 void cadastrarUsuario();
 void listarUsuarios();
 void removerUsuario();
+
+//CadastroClientes
+void cadastroClientes();
+void cadastrarCliente();
+void listarClientes();
+
+//CadastroProdutos
+void cadastrarProduto();
+void listarProdutos();
+void alterarPrecoVenda();
+void adicionarEstoque();
+void apagarProduto();
+//void calcularMargemLucro(Produto *produto);
 
 
 #endif // FUNCOES_H

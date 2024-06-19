@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "funcoes.h"
-
+#include "data.h"
 int main()
 {
-    int opcao=1;
+    int opcao;
     do{
         opcao = 0;
         system("cls");
