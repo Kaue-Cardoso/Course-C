@@ -1,12 +1,8 @@
-Login: Kaue1234
-Senha: kaue123
-Tipo: 1
-
 Login: Jose1234
 Senha: jose123
-Tipo: 2
+Tipo: 1
 
-Login: Pedro123
-Senha: pedro123
+Login: test1234
+Senha: test123
 Tipo: 2
 

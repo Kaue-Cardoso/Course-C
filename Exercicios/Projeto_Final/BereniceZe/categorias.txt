@@ -1,0 +1,4 @@
+1 Higiene
+2 Panificacao
+3 ALimento
+4 Pastelao

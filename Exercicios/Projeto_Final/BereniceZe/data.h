@@ -8,6 +8,7 @@ typedef struct {
 } Usuario;
 
 typedef struct {
+    int id;
     char nomeCompleto[100];
     char nomeSocial[100];
     char cpf[12];
@@ -30,6 +31,24 @@ typedef struct {
     float margemLucro;
     int quantidadeEstoque;
     int estoqueMinimo;
+    char categoria[50];
 } Produto;
+
+
+
+typedef struct {
+    int id;
+    int idCliente;
+    float total;
+    int finalizada; // 0 para não finalizada, 1 para finalizada
+} Compra;
+
+typedef struct {
+    int idCompra;
+    int idProduto;
+    int quantidade;
+    float precoUnitario;
+} ItemCompra;
+
 
 #endif // DATA_H

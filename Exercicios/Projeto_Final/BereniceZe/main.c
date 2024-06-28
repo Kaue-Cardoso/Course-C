@@ -16,35 +16,27 @@ int main()
                 cadastros();
                 break;
             case 2:
-                printf("Funcao nao implementada");
+                vendas();
                 //vendas();
                 break;
             case 3:
-                printf("Funcao nao implementada");
-                //aberturaDeCaixa();
-                break;
-            case 4:
-                printf("Funcao nao implementada");
-                //fechamentoDeCaixa();
-                break;
-            case 5:
-                printf("Funcao nao implementada");
+                relatorios();
                 //relatorios();
                 break;
-            case 6:
+            case 4:
                 printf("Saindo...\n");
                 break;
             default:
                 printf("Opcaoo invalida. Tente novamente.\n");
         }
-        if (opcao != 6) {
+        if (opcao != 4) {
             printf("\nPressione Enter para continuar...");
             getchar(); // Espera pelo Enter
             getchar(); // Captura o Enter adicional
         }
 
 
-    } while(opcao != 6);
+    } while(opcao != 4);
     return 0;
 }
 

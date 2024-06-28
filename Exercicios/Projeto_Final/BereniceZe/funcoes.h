@@ -31,4 +31,16 @@ void apagarProduto();
 //void calcularMargemLucro(Produto *produto);
 
 
+int gerarIdUnicoCompra();
+void cadastrarNovaVenda();
+void comprasEmAberto();
+void finalizarCompra();
+void vendas();
+void listarVendasFinalizadas();
+
+
+
+
+
+
 #endif // FUNCOES_H
