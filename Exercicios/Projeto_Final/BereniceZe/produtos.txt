@@ -1,5 +1,0 @@
-1 Feijao 1.20 10.00 733.33 3 3 ALimento
-2 Arroz 0.95 3.00 215.79 10 3 ALimento
-3 Pedro 2.00 8.00 300.00 20 3 Higiene
-4 Jacare 8.00 15.00 87.50 2 3 Pastelao
-5 Farelo 0.20 2.00 900.00 12 3 Higiene

@@ -1,8 +1,0 @@
-Login: Jose1234
-Senha: jose123
-Tipo: 1
-
-Login: test1234
-Senha: test123
-Tipo: 2
-
