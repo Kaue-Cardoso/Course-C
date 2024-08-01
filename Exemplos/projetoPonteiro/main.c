@@ -67,7 +67,17 @@ int main(){
 int main()
 {
 
+    int x = 10, y;
+    int *ptr = &x;
 
+    // Alterando o valor de x através do ponteiro ptr
+    y = *ptr;
+    x = 20;
+
+    // Imprimindo o novo valor de x
+    printf("Novo valor de ptr: %d\n", &*ptr);
+    printf("Novo valor de x: %d\n", x);
+    printf("Novo valor de x: %d\n", y);
 
 
     printf("Hello world!\n");

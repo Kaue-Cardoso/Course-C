@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721405785 source:c:\users\kauek\onedrive\documentos\github\course-c\exemplos\projetoponteiro\main.c
+	<stdio.h>
+	<stdlib.h>
+
